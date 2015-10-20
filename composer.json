@@ -1,0 +1,10 @@
+{
+    "name": "sonnygauran/magento-admin-theme",
+    "authors": [
+        {
+            "name": "Sonny Gauran",
+            "email": "sonnygauran@gmail.com"
+        }
+    ],
+    "require": {}
+}
